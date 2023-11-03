@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf933e58.css",
+    "main.js": "/static/js/main.20983b4f.js",
+    "static/media/hrproblemsolving.png": "/static/media/hrproblemsolving.e1a516181c308377f458.png",
+    "static/media/hrpython.png": "/static/media/hrpython.be9acc4a241a00208d9f.png",
+    "static/media/mtapython.png": "/static/media/mtapython.6b66f72088b7a46481da.png",
+    "static/media/MementoMERN.png": "/static/media/MementoMERN.2bf88c3299c88d5efa5c.png",
+    "static/media/linkedinProfileScraper.gif": "/static/media/linkedinProfileScraper.3ac6b9a78e22da19187e.gif",
+    "static/media/advgoogleanalytics.png": "/static/media/advgoogleanalytics.a2f0f5903b06145e9808.png",
+    "static/media/googleanalytics.png": "/static/media/googleanalytics.eabe25330e7dc2cc1734.png",
+    "static/media/az900.png": "/static/media/az900.78af84a56c517195ea12.png",
+    "static/media/codeassist.gif": "/static/media/codeassist.cd5e61571b2acc2c129f.gif",
+    "static/media/code.png": "/static/media/code.2ac31d9ef812275670da.png",
+    "static/media/jpmorgancertificate.png": "/static/media/jpmorgancertificate.5f7c6507de4c837e766d.png",
+    "static/media/mlai.png": "/static/media/mlai.87b20d5680977328fce0.png",
+    "static/media/waterScarcity.jpeg": "/static/media/waterScarcity.b65cef7279bfb2d758bf.jpeg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/python.png": "/static/media/python.3773b61d7de3dd14e7ef.png",
+    "static/media/svlogo.png": "/static/media/svlogo.c9056cbe64b3de51f820.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/java.png": "/static/media/java.12f9f5c9bddc6b4cfa30.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.bf933e58.css.map": "/static/css/main.bf933e58.css.map",
+    "main.20983b4f.js.map": "/static/js/main.20983b4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf933e58.css",
+    "static/js/main.20983b4f.js"
+  ]
+}
